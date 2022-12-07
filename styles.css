@@ -1,0 +1,33 @@
+
+.logo{
+  width: 100px;
+  height:90px;
+  margin-right: auto;
+  padding-top: 4px;
+}
+.container{
+  list-style: none;
+  display:flex;
+  background-color:black;
+  list-style-type: none;
+  margin:auto;
+}
+.items{
+  padding-right:120px;
+}
+.items a{
+  color:azure;
+  text-decoration: none;
+  text-align: center;
+	font-size:20px;
+  line-height: 5.0em;
+	font-family: Georgia;
+  font-weight: bold;
+}
+.items a:hover{
+  color:#cb6ca6;
+}
+body {
+  margin:auto;
+  text-weight:bold;
+}
